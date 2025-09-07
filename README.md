@@ -26,3 +26,8 @@ Before this analysis, I had worked with biophysical (TFM) and single-cell RNA se
 Exploring MIMIC-III confirmed that this difficulty is not limited to molecular or cellular data, even clinical datasets at the patient level present similar barriers.
 In all these contexts, data complexity, missing information and the need for domain expertise make the analysis nontrivial and highlight why collaboration between data scientists and medical experts is essential to extract meaningful insights from biomedical data.
 
+
+---
+
+### Note:
+**aliskimikhail-notebook** is not mine
